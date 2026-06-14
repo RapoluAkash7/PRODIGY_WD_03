@@ -20,9 +20,6 @@ A modern and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-# author
-Akash
-
 ## Author
 
 Akash
